@@ -8,7 +8,8 @@ const Hero = () => {
     "https://images.pexels.com/photos/1659438/pexels-photo-1659438.jpeg?auto=compress&cs=tinysrgb&w=600"
   );
 
-  const hoverImage = "./src/Images/DavoodImage.jpeg";
+  const hoverImage = 
+  "https://raw.githubusercontent.com/SkDavood/Portfolio/main/src/Images/DavoodImage.jpeg";
 
   useEffect(() => {
     const updateExperience = () => {
@@ -72,7 +73,7 @@ const Hero = () => {
                 <Github className="h-6 w-6" />
               </a>
               <a
-                href="www.linkedin.com/in/shaik-khaja-davood-67476b210"
+                href="https://www.linkedin.com/in/shaik-khaja-davood-67476b210/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-700 hover:text-indigo-600 transition-colors"
