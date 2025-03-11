@@ -47,7 +47,7 @@ const Footer = () => {
                   <a href="https://github.com/dashboard" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">GitHub</a>
                 </li>
                 <li>
-                  <a href="www.linkedin.com/in/shaik-khaja-davood-67476b210" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">LinkedIn</a>
+                  <a href="https://www.linkedin.com/in/shaik-khaja-davood-67476b210/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">LinkedIn</a>
                 </li>
 
                 {/* <li>

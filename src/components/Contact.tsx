@@ -97,7 +97,7 @@ const Contact = () => {
                   </svg>
                 </a>
                 <a 
-                  href="www.linkedin.com/in/shaik-khaja-davood-67476b210" 
+                  href="https://www.linkedin.com/in/shaik-khaja-davood-67476b210/" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="bg-gray-200 hover:bg-indigo-600 hover:text-white text-gray-700 p-3 rounded-full transition-colors"
